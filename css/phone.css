@@ -1,0 +1,26 @@
+body{
+    background-color: red;
+}
+
+
+
+/* Service Section */
+
+#services{
+    flex-direction: column;
+}
+
+
+
+
+/* Clients Section */
+
+#clients{
+    overflow: hidden;
+}
+
+
+
+
+
+/* Home Section */
